@@ -13,7 +13,7 @@ Bienvenido a mi perfil de GitHub. Soy un **estudiante autodidacta de programaci�
 ## 🧠 Sobre mí
 
 * 📚 Especializándome en **desarrollo backend**, con enfoque en fundamentos reales
-* ☕ Estudiando **Java**: POO, Interfaces Funcionales, Generics y **Streams API**
+* ☕ Estudiando **Java**: JDBC Puro, Maven, Testing Profesional y Librería Jackson
 * 🐧 Usuario de **Arch Linux** (configuración y personalización del sistema)
 * 🧩 Interesado en entender *cómo funcionan las cosas por dentro*
 
@@ -44,9 +44,9 @@ Bienvenido a mi perfil de GitHub. Soy un **estudiante autodidacta de programaci�
 
 ### Actualmente aprendiendo
 
-- Streams avanzados
-- Manejo de errores
-- SQL aplicado a backend
+- JDBC Puro y ACID en Java
+- Gestión de Dependencias y Construcción (**Maven**)
+- Testing Profesional (QA) -> **JUnit 5** y **Mockito**
 
 ---
 
