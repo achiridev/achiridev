@@ -13,7 +13,7 @@ Bienvenido a mi perfil de GitHub. Soy un **estudiante autodidacta de programaci�
 ## 🧠 Sobre mí
 
 * 📚 Especializándome en **desarrollo backend**, con enfoque en fundamentos reales
-* ☕ Estudiando **Java**: JDBC Puro, Maven, Testing Profesional y Librería Jackson
+* ☕ Estudiando **Java**: Framework Spring
 * 🐧 Usuario de **Arch Linux** (configuración y personalización del sistema)
 * 🧩 Interesado en entender *cómo funcionan las cosas por dentro*
 
@@ -44,9 +44,10 @@ Bienvenido a mi perfil de GitHub. Soy un **estudiante autodidacta de programaci�
 
 ### Actualmente aprendiendo
 
-- JDBC Puro y ACID en Java
-- Gestión de Dependencias y Construcción (**Maven**)
-- Testing Profesional (QA) -> **JUnit 5** y **Mockito**
+* Spring Core
+* Spring Boot Fundamentals, Spring Web y Spring Data JPA
+* Spring Security
+* Testing en Spring
 
 ---
 
@@ -64,7 +65,7 @@ Bienvenido a mi perfil de GitHub. Soy un **estudiante autodidacta de programaci�
 ## 🚀 Objetivos actuales
 
 * Consolidar Java como lenguaje base
-* Entender bien el backend antes de pasar a frameworks
+* Comprender mejor como se usan los lenguajes en el ambito laboral
 * Construir proyectos pequeños pero bien hechos
 
 ---
