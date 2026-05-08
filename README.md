@@ -13,7 +13,6 @@ Bienvenido a mi perfil de GitHub. Soy un **estudiante autodidacta de programaci�
 ## 🧠 Sobre mí
 
 * 📚 Especializándome en **desarrollo backend**, con enfoque en fundamentos reales
-* ☕ Estudiando **Java**: Framework Spring
 * 🐧 Usuario de **Arch Linux** (configuración y personalización del sistema)
 * 🧩 Interesado en entender *cómo funcionan las cosas por dentro*
 
@@ -41,13 +40,6 @@ Bienvenido a mi perfil de GitHub. Soy un **estudiante autodidacta de programaci�
 * Hyprland (Wayland)
 * Git & GitHub
 * Terminal como herramienta principal
-
-### Actualmente aprendiendo
-
-* Spring Core
-* Spring Boot Fundamentals, Spring Web y Spring Data JPA
-* Spring Security
-* Testing en Spring
 
 ---
 
