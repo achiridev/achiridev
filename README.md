@@ -16,49 +16,27 @@ Bienvenido a mi perfil de GitHub. Soy un **estudiante autodidacta de programaci�
 * 🐧 Usuario de **Arch Linux** (configuración y personalización del sistema)
 * 🧩 Interesado en entender *cómo funcionan las cosas por dentro*
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dachiri-unsa&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=dachiri-unsa&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dachiri-unsa&layout=compact) -->
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-<img src="https://skillicons.dev/icons?i=java,python,js,bash,git,linux" />
-
 ### Lenguajes
 
-* **Java** (principal)
-* SQL
-* Python
-* Bash
-* Javascript
-* Css
+<img src="https://skillicons.dev/icons?i=java,spring,postgresql,bash,js,vue" />
 
 ### Entorno
 
-* Arch Linux
-* Hyprland (Wayland)
-* Git & GitHub
-* Terminal como herramienta principal
+<img src="https://skillicons.dev/icons?i=linux,arch,idea,obsidian,git,github" />
 
 ---
 
 ## 📂 Qué encontrarás en mis repositorios
 
 * 🧪 Ejercicios prácticos en Java
-* 📘 Proyectos pequeños enfocados en aprender conceptos, no en impresionar
-* ⚙️ Scripts y configuraciones de Linux
-* 📝 Código comentado y explicado
-
-> Mi objetivo no es subir muchos proyectos grandes, sino **entender bien cada cosa que hago**.
-
----
-
-## 🚀 Objetivos actuales
-
-* Consolidar Java como lenguaje base
-* Comprender mejor como se usan los lenguajes en el ambito laboral
-* Construir proyectos pequeños pero bien hechos
+* 📘 Proyectos pequeños enfocados en aprender conceptos y grandes enfocados en backend real
+* ⚙️ Dotfiles de Linux
 
 ---
 
