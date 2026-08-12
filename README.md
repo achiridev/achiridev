@@ -1,48 +1,52 @@
-# 👋 Hola, soy Daniel Achiri
+# Daniel Achiri
 
-Bienvenido a mi perfil de GitHub. Soy un **estudiante autodidacta de programación**, actualmente enfocado en **backend** y en construir bases sólidas en **Java** y sistemas Linux.
+`@achiridev` · Backend Developer
+
+**Backend Developer especializado en Java y Spring Boot**, interesado en arquitectura de software, sistemas multi-tenant, bases de datos e infraestructura Linux.
 
 > *"Prefiero entender una cosa bien, que usar diez sin saber cómo funcionan."*
 
-![Java](https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Arch-blue?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)
+---
+
+## 💻 Stack & Herramientas
+
+### Especialidad / Principal
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,maven" />
+
+### Otros lenguajes & Fundamentos
+
+<img src="https://skillicons.dev/icons?i=vue,lua,mysql,py,cpp,js" />
+
+### DevOps, Entorno & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,linux,arch,bash,git,github,idea" />
 
 ---
 
-## 🧠 Sobre mí
+<!--
 
-* 📚 Especializándome en **desarrollo backend**, con enfoque en fundamentos reales
-* 🐧 Usuario de **Arch Linux** (configuración y personalización del sistema)
-* 🧩 Interesado en entender *cómo funcionan las cosas por dentro*
+🚀 PROYECTOS DESTACADOS
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dachiri-unsa&layout=compact) -->
+MultiVault
+SaaS multi-tenant para gestión documental...
 
----
+[Java] [Spring Boot] [PostgreSQL] [Docker] ...
 
-## 🛠️ Tecnologías y herramientas
+→ Repository
 
-### Lenguajes
+-->
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgresql,bash,js,vue" />
+## 🚀 En qué me enfoco
 
-### Entorno
-
-<img src="https://skillicons.dev/icons?i=linux,arch,idea,obsidian,git,github" />
-
----
-
-## 📂 Qué encontrarás en mis repositorios
-
-* 🧪 Ejercicios prácticos en Java
-* 📘 Proyectos pequeños enfocados en aprender conceptos y grandes enfocados en backend real
-* ⚙️ Dotfiles de Linux
+* **Backend & Arquitectura Java:** Diseño de APIs REST seguras y escalables con Spring Boot. Aplicación de arquitecturas modulares, Monolitos Modulares y soporte Multi-tenant (Schema-per-Tenant) utilizando Spring Security (JWT), Hibernate/JPA y Flyway.
+* **Bases de Datos & Caching:** Modelado relacional avanzado en PostgreSQL, optimización de consultas, estrategias de caché con Redis/Valkey e integración de eventos asíncronos en el dominio.
+* **Infraestructura & Contenedores:** Despliegue de servicios mediante Docker y Docker Compose, administración de servidores Linux (Arch/systemd), gestión de redes y automatización de dotfiles.
+* **Testing & Calidad:** Pruebas unitarias e integración con JUnit 5 y Mockito (`@SpringBootTest`, `@DataJpaTest`), enfocándome en mantenibilidad, código limpio y principios SOLID.
 
 ---
 
-Gracias por pasarte por aquí
+## 📬 Encuéntrame en:
 
-## Encuéntrame en:
-
-![Gmail Personal](https://img.shields.io/badge/Gmail-cooperbrawl@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-dachiri@unsa.edu.pe-red?style=for-the-badge&logo=gmail&logoColor=white)
+* **Institucional:** [dachiri@unsa.edu.pe](mailto:dachiri@unsa.edu.pe)
+* **Personal:** [cooperbrawl@gmail.com](mailto:cooperbrawl@gmail.com)
